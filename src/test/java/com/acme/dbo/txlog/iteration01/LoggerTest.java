@@ -2,7 +2,6 @@ package com.acme.dbo.txlog.iteration01;
 
 import com.acme.dbo.txlog.Facade;
 import com.acme.dbo.txlog.SysoutCaptureAndAssertionAbility;
-import com.sun.org.apache.xml.internal.serialize.LineSeparator;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
